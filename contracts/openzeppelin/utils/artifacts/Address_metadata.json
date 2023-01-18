@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "recipient",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "SendValue",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/openzeppelin/utils/Address.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/openzeppelin/utils/Address.sol": {
+			"keccak256": "0x6f77628a1bfc7faa36d9ecaa658a9101b00097ecf3f5b172f0fd98e56b067248",
+			"urls": [
+				"bzz-raw://e4ef1dcdc55d0684ec69dae46036d007f18cd3e1373f90a39a6e86ade1803911",
+				"dweb:/ipfs/Qmf7rJtD7EbbszS7VgKnAmDhJmWqpgWodTBHHdbkFZwrDL"
+			]
+		}
+	},
+	"version": 1
+}

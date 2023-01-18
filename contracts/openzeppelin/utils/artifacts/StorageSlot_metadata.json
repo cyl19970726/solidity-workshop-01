@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/openzeppelin/utils/Arrays.sol": "StorageSlot"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/openzeppelin/utils/Arrays.sol": {
+			"keccak256": "0xd9c888bebf57a105f39932b3b4abdb3517eef35ab90ed4e1b0066ae89f9939d1",
+			"urls": [
+				"bzz-raw://b22626ef5042d7e57bf35e7565d2e84bbe7be47df6af2be23bc7ce9e6b21440f",
+				"dweb:/ipfs/QmS5y1P1j8BYTnwe4kdBgZWTcdrXDj3SYdVvHiH3n2qTX4"
+			]
+		}
+	},
+	"version": 1
+}

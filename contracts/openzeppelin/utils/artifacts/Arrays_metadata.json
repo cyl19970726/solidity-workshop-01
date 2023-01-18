@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/openzeppelin/utils/Arrays.sol": "Arrays"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/openzeppelin/utils/Arrays.sol": {
+			"keccak256": "0xe8fef84067240fd0ccff395f752699ee5d4c7be678c4ce382232b9e1988f1916",
+			"urls": [
+				"bzz-raw://1c92f14f47c46a61fe8abcbeaa0412af51e20265d77e2ac47eb49fbc480566f0",
+				"dweb:/ipfs/QmazaLijLPvR3D2vd9vvCxcrNoF1UryuQ98iRDGMa7GT8g"
+			]
+		},
+		"contracts/openzeppelin/utils/StorageSlot.sol": {
+			"keccak256": "0x2eee125a4bc5f5221197ab4cf374fb648da37294d37746f3db9b04dc64718d59",
+			"urls": [
+				"bzz-raw://aa0702e40a4ac5c5106023831beb7cc7f10de18345527aedd034d7f54c77c9af",
+				"dweb:/ipfs/QmUVVy9MXugy7P8sdsKvfBkxHQSyjJmcoyHejsLDKzBnNx"
+			]
+		}
+	},
+	"version": 1
+}
